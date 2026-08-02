@@ -1,0 +1,15 @@
+# textdomain: recipe_maker
+
+Craft Recipe Maker (Code Generator)=クラフトレシピメーカー (Code Generator)
+Materials (3x3)=【1】素材を並べる (3x3)
+Outcome=【2】完成品
+Generate Code=コード生成
+Generated Lua Code / JSON Array=【3】出力された Lua コード / JSON用配列
+Inventory=インベントリ
+
+Usage=使い方
+Place ingredients into the 3x3 grid on the left.=左の3x3枠に素材を並べます。
+Place the outcome into the single slot on the right.=右の単一枠に完成品を置きます。
+Click the [Generate Code] button.=【コード生成】ボタンを押してください。
+
+[Error] Please place the outcome item into the slot on the right!=【エラー】完成品枠（右側）にアイテムを配置してください！

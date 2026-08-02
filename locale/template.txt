@@ -1,0 +1,12 @@
+# textdomain: recipe_maker
+
+Craft Recipe Maker (Code Generator)=
+Materials (3x3)=
+Outcome=
+👉 Generate Code=
+Generated Lua Code / JSON Array=
+Inventory=
+
+[Usage]\n1. Place ingredients into the 3x3 grid on the left.\n2. Place the outcome into the single slot on the right.\n3. Click the [Generate Code] button=
+
+[Error] Please place the outcome item into the slot on the right!=
