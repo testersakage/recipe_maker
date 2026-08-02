@@ -1,5 +1,7 @@
 # 🛠️ Craft Recipe Maker (Code & JSON Generator)
 
+<img width=292, height=266, src="https://github.com/testersakage/recipe_maker/blob/main/screenshots/sample1.png"></img>
+
 - [Japanese Documentation (README.md)](./README.md)
 
 A standalone graphical development utility for Luanti (Minetest) modding. 

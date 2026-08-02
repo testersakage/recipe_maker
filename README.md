@@ -1,6 +1,8 @@
 # 🛠️ クラフトレシピメーカー (コード＆JSON自動生成ツール)
 
-- [English Documentation (README_en.md)](./README_en.md)
+<img width=292, height=266, src="https://github.com/testersakage/recipe_maker/blob/main/screenshots/sample1.png"></img>
+
+- [English Documentation (README.en.md)](./README.en.md)
 
 Luanti (Minetest) のMOD開発を劇的に効率化させる、画期的なゲーム内ビジュアル開発支援ツールです。
 作業台形式の3x3画面に素材アイテムを実際に並べるだけで、システム内のデータベースから現在起動している環境の100%正確なアイテムIDを直接読み取り、タイポ（打ち間違い）のないLuaクラフトコードおよびデータ駆動型JSON用配列文字列をその場で自動生成します。
